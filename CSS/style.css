@@ -6,7 +6,7 @@
 }
 
 body {
-    background: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), url(./images/landinimage\(1\).jpg);
+    background: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), url(/images/landinimage(1).jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -185,7 +185,7 @@ header a:hover {
 }
 
 #hero .container .lefthero .leftimages .image1 {
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./images/landinimage\(2\).jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/images/landinimage(2).jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -201,7 +201,7 @@ header a:hover {
 }
 
 #hero .container .lefthero .leftimages .image2 {
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./images/landinimage\(4\).jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(images/landinimage(4).jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -215,7 +215,7 @@ header a:hover {
 }
 
 #hero .container .lefthero .rightimage {
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./images/landinimage\(3\).jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/images/landinimage(3).jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -230,7 +230,7 @@ header a:hover {
 
 /* right side of hero */
 #hero .container .righthero {
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./images/landinimage\(5\).jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/images/landinimage(5).jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
